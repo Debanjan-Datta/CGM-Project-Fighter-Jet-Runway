@@ -4,14 +4,16 @@
 The purpose of this COMPUTER GRAPHICS & MULTIMEDIA (CGM)  Project  is to demonstrate Taking off a Fighter Jet on Runway in a simple way. This is a GLUT OpenGL Project. I have used Codeblocks For this project. Its in C++ .
 
 
-## Youtube link :
-You can watch My Full Project Presentation here ..
- - [ https://youtu.be/NOTChUDtTn8 ]
 
 ## Project Demo
 Its a gif simulation of the Fighter-Jets Runway Takeoff.....
 <p><img align="center" alt="gif" src="https://github.com/Debanjan-Datta/CGM-Project-Fighter-Jet-Runway/blob/main/gifff.gif" /></p>
 
+
+## Youtube link :
+You can watch My Full Project Presentation here ->
+ - [ https://youtu.be/NOTChUDtTn8 ]
+ 
 
 ## Screenshots
 
