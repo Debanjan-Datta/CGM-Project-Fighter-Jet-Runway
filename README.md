@@ -10,10 +10,12 @@ You can watch My Full Project Presentation here ..
 
 ## Project Demo
 Its a gif simulation of the Fighter-Jets Runway Takeoff.....
-<p><img align="right" alt="gif" src="https://github.com/Debanjan-Datta/CGM-Project-Fighter-Jet-Runway/blob/main/gifff.gif" /></p>
+<p><img align="center" alt="gif" src="https://github.com/Debanjan-Datta/CGM-Project-Fighter-Jet-Runway/blob/main/gifff.gif" /></p>
 
 
 ## Screenshots
+
+<p><img align="center" alt="img" src="https://ibb.co/hybxV52" /></p>
 
 [https://ibb.co/hybxV52]
 ## Feedback
