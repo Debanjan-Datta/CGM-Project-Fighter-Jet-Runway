@@ -15,9 +15,8 @@ Its a gif simulation of the Fighter-Jets Runway Takeoff.....
 
 ## Screenshots
 
-<p><img align="center" alt="img" src="https://ibb.co/hybxV52" /></p>
-
 [https://ibb.co/hybxV52]
+
 ## Feedback
 
 Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. 
